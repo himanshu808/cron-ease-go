@@ -20,9 +20,9 @@
 # Go workspace file
 go.work
 
-cron-test.txt
-Dockerfile
-err.log
-out.log
+backend/cron-test.txt
+backend/Dockerfile
+backend/err.log
+backend/out.log
 .idea/
-run.sh
+backend/run.sh
