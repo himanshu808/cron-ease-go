@@ -19,3 +19,10 @@
 
 # Go workspace file
 go.work
+
+cron-test.txt
+Dockerfile
+err.log
+out.log
+.idea/
+run.sh
